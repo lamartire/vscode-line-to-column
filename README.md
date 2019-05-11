@@ -1,4 +1,7 @@
 # Line > Column
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/lamartire/vscode-line-to-column.svg)](https://greenkeeper.io/)
+
 ---
 
 ![](http://i.imgur.com/mvHeZ4g.gif)
